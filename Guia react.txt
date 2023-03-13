@@ -1,0 +1,21 @@
+npx create-react-app nombreDeCarpeta   -> con esto iniciamos un nuevo proyecto (esto se escribe en consola)
+npx create-react-app .   -> con esto iniciamos un nuevo proyecto dentro de una carpeta ya creada (esto se escribe en consola)
+--------------------------------------------------------------------------------------------------------------------------
+app.css -> Es lo que nos da la apariencia incial,fondo, logos, imagenes (parte visual)
+index.css -> le da un estilo por defecto a nuestra app
+--------------------------------------------------------------------------------------------------------------------------
+*creamos dentro de source una carpeta para componentes, hoja de estilo y otra para imagenes
+*creamos dentro de la carp de componentes un file con el nombre de nuestro proyecto .js/jsx
+*dentro de este file.js :
+1 import React from "react";
+2
+3 function miApp(){
+4  return(
+5 
+6  );
+7 }
+
+--------------------------------------------------------------------------------------------------------------------------
+para abrir nuestro localhost npm start
+
+

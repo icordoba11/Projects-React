@@ -1,0 +1,12 @@
+.contendor-form{
+    width: 100vh;
+    height:80px;
+    background-color: white;
+    font-size: 20px;
+}
+.input{
+    background-color: white;
+    height: 90%;
+    width: 90%;
+    font-size: 30px;
+}
